@@ -14,7 +14,8 @@ Bu uygulama, kullanıcıların güçlü parolalar oluşturmasına yardımcı ola
 1. Proje dosyalarını bir Python IDE'sinde veya terminalde çalıştırın.
 2. Açılan pencerede parola uzunluğunu belirleyin ve karakter seçeneklerini işaretleyin.
 3. "Oluştur" düğmesine tıklayarak parolayı oluşturun.
-4. "Panoya Kopyala" düğmesine tıklayarak oluşturulan parolayı panoya kopyalayın.
+4. "Panoya Kopyala" düğmesine tıklayarak oluşturula![Ekran Görüntüsü - 2024-06-05 10-27-12](https://github.com/all-ou/parola_olusturma/assets/171144952/ec718cf6-9473-465a-9045-899c07c6ac3d)
+n parolayı panoya kopyalayın.
 
 ## Katkıda Bulunma
 
