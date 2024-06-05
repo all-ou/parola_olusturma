@@ -9,6 +9,12 @@ Bu uygulama, kullanıcıların güçlü parolalar oluşturmasına yardımcı ola
 - Oluşturulan parolayı panoya kopyalama
 - Parola gücünü gösterme
 
+## Kurulum
+
+1. Bu repo'yu klonlayın veya indirin.
+2. Projeyi bir Python ortamında çalıştırın.
+3. Bağımlılıkları yüklemek için terminalde veya komut istemcisinde gerekli modülleri yükleyin.
+
 ## Kullanım
 
 1. Proje dosyalarını bir Python IDE'sinde veya terminalde çalıştırın.
